@@ -1,0 +1,5 @@
+1. create java apps to send alert to telegram
+2. create function with timeout for every 5 mins
+3. create an array with 12000 array and then prepare empty array to insert the failed responses
+4. loop the 12000 data and find the failed then push the failed to empty array that we have crated
+5. make if condition if the length of array is more than 100 send the alert to telegram

@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
-        
+
         String sourcePath = "H:\\jalin\\testJln\\test3\\input.txt";
         try {
             FileInputStream fstream = new FileInputStream(sourcePath);
